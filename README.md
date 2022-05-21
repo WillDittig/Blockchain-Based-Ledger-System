@@ -1,4 +1,4 @@
-# Fintech-Challange-Module-18
+# Blockchain-Based-Ledger-System
 
 This file contains a basic PyChain Ledger that creates blocks and performs proof of work consensous and validates the blocks in the chain. 
 The ledger works by first typing in the name of the sender, then the name of the reciever, then the amoun that the sender is sending to the receier. 
